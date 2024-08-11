@@ -1,0 +1,19 @@
+1.Prime Number Checker: Berilgan sonning tub son ekanligini aniqlaydigan funksiya yozing.
+
+2.GCD Calculator: Ikki sonning eng katta umumiy bo'luvchisini (GCD) hisoblaydigan funksiya yozing.
+
+3.LCM Calculator: Ikki sonning eng kichik umumiy ko'paytuvchisini (LCM) hisoblaydigan funksiya yozing.
+
+4.Count Words: Berilgan matnda nechta so'z borligini aniqlaydigan funksiya yozing.
+
+5.Reverse Words: Matn ichidagi so'zlarni teskari tartibda qaytaradigan funksiya yozing.
+
+6.Remove Duplicates: Berilgan massivdan dublikat elementlarni olib tashlaydigan funksiya yozing.
+
+7.Sort Array: Berilgan massivni kichikdan kattaga tartiblash uchun funksiya yozing.
+
+8.Check for Uppercase: Matn ichida katta harf mavjudligini tekshiruvchi funksiya yozing.
+
+9.Capitalize First Letter: Berilgan matndagi har bir so’zning bosh harfini katta qilib qaytaradigan funksiya yozing.
+
+10.Array Flattening: Ichma-ich massivlarni bir sathli massivga aylantiruvchi funksiya yozing.

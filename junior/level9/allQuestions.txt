@@ -1,0 +1,19 @@
+1.Check for Symmetric Array: Massivning simmetrik ekanligini tekshiruvchi funksiya yozing.
+
+2.Check for Magic Square: Berilgan 2D massivning magic square ekanligini aniqlaydigan funksiya yozing.
+
+3.Find Missing Letters: Matndan yo’qolgan harflarni topuvchi funksiya yozing.
+
+4.Sum of Array Pairs: Massiv ichida berilgan maqsadli yig’indiga teng juftlarni topuvchi funksiya yozing.
+
+5.Merge Sorted Arrays: Ikki tartiblangan massivni birlashtiruvchi funksiya yozing.
+
+6.Find Peak Element: Massiv ichida lokal maksimum (cho’qqi) bo’lgan elementni topuvchi funksiya yozing.
+
+7.Longest Palindromic Substring: Matnda eng uzun palindromik substringni topuvchi funksiya yozing.
+
+8.Sum of Multiples: Berilgan sondan kichik bo’lgan barcha 3 va 5 ga bo’linadigan sonlarning yig’indisini hisoblaydigan funksiya yozing.
+
+9.String Expansion: Berilgan matnni kengaytiruvchi funksiya yozing (masalan: "a2b3" => "aabbb").
+
+10.Find Median of Array: Tartiblanmagan massivning median qiymatini topuvchi funksiya yozing.

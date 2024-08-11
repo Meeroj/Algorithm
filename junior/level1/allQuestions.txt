@@ -1,0 +1,19 @@
+1.Odd/Even Checker: Foydalanuvchi kiritgan sonning juft yoki toq ekanligini aniqlaydigan funksiya yozing.
+
+2.Sum of Array: Berilgan massiv ichidagi barcha elementlar yig’indisini hisoblaydigan funksiya yozing.
+
+3.Palindrome Checker: Berilgan so’zning palindrom (chapdan va o’ngdan bir xil) ekanligini tekshiruvchi funksiya yozing.
+
+4.Factorial Calculator: Foydalanuvchi kiritgan sonning faktorialini hisoblaydigan funksiya yozing.
+
+5.Fibonacci Sequence: N-elementdan iborat Fibonacci ketma-ketligini yaratadigan funksiya yozing.
+
+6.Maximum Number Finder: Berilgan massivdagi eng katta sonni qaytaradigan funksiya yozing.
+
+7.String Reversal: Berilgan matnni teskariga aylantiruvchi funksiya yozing.
+
+8.Array Reversal: Berilgan massivni teskariga aylantiruvchi funksiya yozing.
+
+9.Count Vowels: Matnda nechta unli harf borligini aniqlaydigan funksiya yozing.
+
+10.Power of Two: Foydalanuvchi kiritgan sonni ikkiga ko'paytirib chiqadigan funksiya yozing.

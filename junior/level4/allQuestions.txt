@@ -1,0 +1,19 @@
+1.Find Duplicates: Massiv ichidagi dublikat elementlarni aniqlaydigan funksiya yozing.
+
+2.Count Consonants: Matnda nechta undosh harf borligini aniqlaydigan funksiya yozing.
+
+3.String Contains Only Digits: Matn faqat raqamlardan iborat ekanligini tekshiruvchi funksiya yozing.
+
+4.Array Sum: Berilgan ikki massivni yig’indisini qaytaradigan funksiya yozing.
+
+5.Array Difference: Berilgan ikki massiv orasidagi farqni topuvchi funksiya yozing.
+
+6.Is Anagram: Berilgan ikki so’z bir-biriga anagram ekanligini tekshiruvchi funksiya yozing.
+
+7.Find Intersection: Ikki massivning umumiy elementlarini qaytaradigan funksiya yozing.
+
+8.Average of Array: Massiv ichidagi elementlarning o’rtacha qiymatini hisoblaydigan funksiya yozing.
+
+9.Check for Palindromic Number: Berilgan sonning palindrom son ekanligini tekshiruvchi funksiya yozing.
+
+10.Rotate Array: Massivni N pozitsiya bo’ylab o'ngga aylantiruvchi funksiya yozing.

@@ -1,0 +1,19 @@
+1.Check for Balanced Brackets: Matndagi qavslar, kvadrat qavslar, va jingalak qavslar balansli ekanligini tekshiruvchi funksiya yozing.
+
+2.Find Longest Substring Without Repeating Characters: Matnda takrorlanmaydigan belgilar bo’lgan eng uzun substringni topuvchi funksiya yozing.
+
+3.Find All Subarrays with Given Sum: Berilgan yig’indiga teng bo’lgan barcha kichik massivlarni topuvchi funksiya yozing.
+
+4.Count Inversions in Array: Massivda nechta o’rin almashishi kerakligini aniqlaydigan funksiya yozing.
+
+5.Find Kth Largest Element: Massivdagi K-chi eng katta elementni topuvchi funksiya yozing.
+
+6.Check for Permutation: Ikki massivning bir-birining permutatsiyasi ekanligini tekshiruvchi funksiya yozing.
+
+7.Find Longest Increasing Subsequence: Berilgan massiv ichidagi eng uzun ortib boruvchi ost-ketma-ketlikni topuvchi funksiya yozing.
+
+8.Generate All Subsets: Berilgan massiv ichidagi barcha ost-massivlarni yaratadigan funksiya yozing.
+
+9.Find Largest Product in Array: Berilgan massiv ichidagi ketma-ket keladigan sonlarning eng katta ko’paytmasini topuvchi funksiya yozing.
+
+10.Find All Anagrams: Berilgan so'zning barcha mumkin bo’lgan anagrammalarini topuvchi funksiya yozing.

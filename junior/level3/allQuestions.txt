@@ -1,0 +1,19 @@
+1.Count Digits: Berilgan sonning raqamlar sonini aniqlaydigan funksiya yozing.
+
+2.Sum of Digits: Berilgan sonning barcha raqamlar yig’indisini hisoblaydigan funksiya yozing.
+
+3.Remove Vowels: Matndan barcha unli harflarni olib tashlaydigan funksiya yozing.
+
+4.Remove Whitespaces: Matndan barcha bo’shliqlarni olib tashlaydigan funksiya yozing.
+
+5.Check for Substring: Berilgan matn ichida ma'lum bir kichik matn mavjudligini tekshiruvchi funksiya yozing.
+
+6.Array to String: Massiv ichidagi elementlarni bitta matnga aylantiruvchi funksiya yozing.
+
+7.Find Index: Massiv ichida berilgan elementning indeksini qaytaradigan funksiya yozing.
+
+8.Binary to Decimal: Berilgan ikkilik sonni o'nlik son tizimiga o’tkazadigan funksiya yozing.
+
+9.Decimal to Binary: Berilgan o'nlik sonni ikkilik son tizimiga o’tkazadigan funksiya yozing.
+
+10.Factorial Trailing Zeros: Faktorial natijasida nechta 0 raqami borligini aniqlaydigan funksiya yozing.

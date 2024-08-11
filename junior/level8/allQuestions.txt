@@ -1,0 +1,19 @@
+1.Find Non-Repeating Characters: Matnda bir marta uchraydigan birinchi harfni topuvchi funksiya yozing.
+
+2.Check for Palindromic Substring: Matnda palindromik substring borligini tekshiruvchi funksiya yozing.
+
+3.Longest Common Prefix: Bir nechta matn ichida eng uzun umumiy prefiksni topuvchi funksiya yozing.
+
+4.Check for Circular Array: Massivning tsiklik ekanligini tekshiruvchi funksiya yozing.
+
+5.Reverse Words in Place: Matndagi har bir so’zni o’z o’rnida teskari aylantiruvchi funksiya yozing.
+
+6.Check for Mirror Image: Berilgan ikki matn bir-biriga teskari bo'lib joylashganligini aniqlaydigan funksiya yozing.
+
+7.Count Down from N: Berilgan sondan 0 gacha hisoblaydigan rekursiv funksiya yozing.
+
+8.Flatten and Sort Array: Ichma-ich massivlarni tekislagan holda tartiblaydigan funksiya yozing.
+
+9.Sum of Odd Numbers in Array: Massivdagi barcha toq sonlarning yig’indisini hisoblaydigan funksiya yozing.
+
+10.Swap Case: Matndagi barcha katta harflarni kichik harfga, kichik harflarni katta harfga almashtiruvchi funksiya yozing.

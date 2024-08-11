@@ -1,0 +1,19 @@
+1.Array Partition: Massivni ikki qismga bo’lib, har bir qismning o’zaro bir-biriga teng bo’lishini ta'minlovchi funksiya yozing.
+
+2.Convert CamelCase to SnakeCase: Matnni CamelCase’dan SnakeCase’ga aylantiruvchi funksiya yozing.
+
+3.String Compression: Matnni qisqartiruvchi funksiya yozing (masalan: "aaabb" => "a3b2").
+
+4.Find Missing Number: 1 dan N gacha bo'lgan massiv ichida yo’qolgan raqamni aniqlaydigan funksiya yozing.
+
+5.Count Duplicates: Massiv ichida nechta dublikat borligini aniqlaydigan funksiya yozing.
+
+6.Flatten Array with Depth: Massivni chuqurlik bilan bir tekis qilib ko'rsatuvchi funksiya yozing.
+
+7.Count Specific Character: Matn ichida berilgan harf necha marta uchraganligini aniqlaydigan funksiya yozing.
+
+8.Find Longest Word: Matnda eng uzun so’zni topuvchi funksiya yozing.
+
+9.Capitalize Every Word: Matnning har bir so'zini katta harf bilan boshlaydigan funksiya yozing.
+
+10.Remove Specific Element: Massivdan ma'lum bir elementni olib tashlaydigan funksiya yozing.

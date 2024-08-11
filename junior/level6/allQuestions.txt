@@ -1,0 +1,19 @@
+1.Intersection of Multiple Arrays: Bir nechta massivlarning umumiy elementlarini topuvchi funksiya yozing.
+
+2.Generate Random String: Tasodifiy matn (string) yaratadigan funksiya yozing.
+
+3.Find Unique Elements: Massiv ichidagi faqat bir marta uchraydigan elementlarni qaytaruvchi funksiya yozing.
+
+4.Check for Balanced Parentheses: Matnda qavslar balansli ekanligini tekshiruvchi funksiya yozing.
+
+5.String Permutations: Matnning barcha mumkin bo’lgan kombinatsiyalarini yaratadigan funksiya yozing.
+
+6.Count Occurrences of Substring: Matnda ma'lum bir kichik matn necha marta uchraganligini aniqlaydigan funksiya yozing.
+
+7.Reverse Sentence: Berilgan jumladagi so'zlarni teskari tartibda qaytaradigan funksiya yozing.
+
+8.Isogram Checker: So'zda takrorlanadigan harf bor-yo'qligini tekshiruvchi funksiya yozing.
+
+9.Remove Duplicates from String: Matndan dublikat harflarni olib tashlaydigan funksiya yozing.
+
+10.Repeat String: Matnni N marta takrorlab qaytaruvchi funksiya yozing.

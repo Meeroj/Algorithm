@@ -1,0 +1,19 @@
+1.Check for Arithmetic Sequence: Massivning arifmetik ketma-ketlik ekanligini tekshiruvchi funksiya yozing.
+
+2.Count Unique Words: Matndagi noyob so'zlar sonini aniqlaydigan funksiya yozing.
+
+3.Binary Search Algorithm: Tartiblangan massivda ma'lum bir qiymatni binary search yordamida topuvchi funksiya yozing.
+
+4.Check for Pangram: Matnning barcha harflarni o’z ichiga olganligini tekshiruvchi funksiya yozing.
+
+5.Sort Characters Alphabetically: Matndagi barcha harflarni alfavit tartibida joylashtiruvchi funksiya yozing.
+
+6.Convert String to Title Case: Matnni title case ko’rinishida qaytaradigan funksiya yozing.
+
+7.Find Most Frequent Element: Massivda eng ko’p uchraydigan elementni topuvchi funksiya yozing.
+
+8.Remove All Spaces: Matndan barcha bo’shliqlarni olib tashlaydigan funksiya yozing.
+
+9.Insert Dashes: Matnning har bir so’zi orasiga chiziqcha qo’shuvchi funksiya yozing (masalan: "hello world" => "h-e-l-l-o w-o-r-l-d").
+
+10.String Rotation: Matnni N pozitsiya bo'ylab o'ngga aylantiruvchi funksiya yozing.
