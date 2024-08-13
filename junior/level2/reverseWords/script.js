@@ -2,7 +2,7 @@ const reverseWord = text => {
     const splitText = text.split(' ')
     const reverseWordsTextList = []
     for (let i = 0; i < splitText.length; i++) {
-        reverseWordsTextList.push(splitText[i].split('').reverse('').join(''))
+        reverseWordsTextList.push(splitText[i].split('').reverse().join(''))
     }
 
     return reverseWordsTextList.join(' ')
